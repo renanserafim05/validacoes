@@ -1,0 +1,2 @@
+Este é um arquivo de teste para verificar o fluxo de git.
+Criado em: 10/02/2026
